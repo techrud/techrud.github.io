@@ -33,7 +33,7 @@ nav{
     list-style: none;
 }
 .nav-links a{
-    color: #FF6517;
+    color: #EB3349;
     text-decoration: none;
     letter-spacing: 1px;
     font-weight: lighter;
@@ -154,11 +154,11 @@ nav{
 button{
     margin: 2% 2%;
     padding: 1% 1%;
-    border: 2px solid #FF6517;
+    border: 2px solid #EB3349;
     background-color: white;
 }
 button a{
-    color: #FF6517;
+    color: #EB3349;
     font-size: 14px;
 }
 .soicons{
