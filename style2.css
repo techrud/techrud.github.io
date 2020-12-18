@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    font-family: 'Nanum Pen Script', cursive;
+    font-family: 'Quicksand', sans-serif;
     
 }
 nav{
@@ -174,7 +174,7 @@ button a{
 .groww:hover { transform: scale(1.1); }
 
 h1{
-    font-family: 'Nanum Pen Script', cursive;
+    font-family: 'Quicksand', sans-serif;
     font-size: 30px;
     font-weight: 300;
 }
@@ -231,7 +231,7 @@ hr{
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 
 html {
-  font-family: 'Montserrat', Arial, sans-serif;
+  font-family: 'Quicksand', sans-serif;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
